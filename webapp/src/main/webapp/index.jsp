@@ -8,8 +8,8 @@
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
 
-    <label for="Age"><b>Enter Age</b></label>
-    <input type="text" placeholder="Age" name="Age" id="Age" required>
+    <label for="Age"><b>Enter Sex</b></label>
+    <input type="Sex" placeholder="Sex" name="Sex" id="Sex" required>
     <br>
 
    
